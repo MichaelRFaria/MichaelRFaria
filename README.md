@@ -29,13 +29,5 @@ I enjoy building **games, CLI tools, and web apps**, always learning and experim
 
 ---
 
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/michaelrfaria/)
-
----
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelRFaria&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRFaria&layout=compact&theme=radical" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRFaria&layout=compact&theme=radical" />
