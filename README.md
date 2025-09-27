@@ -1,4 +1,4 @@
-# Hi, I'm Michael! 👋
+# 👋 Hi, I'm Michael!
 
 3rd Year BSc Computer Science student passionate about **Java**, with experience in **React, Python, SQL & C++**.
 I enjoy building **games, CLI tools, and web apps**, always learning and experimenting. 🚀
