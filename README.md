@@ -10,9 +10,8 @@ I enjoy building **games, CLI tools, and web apps**, always learning and experim
 | Java Projects | Python Projects | Web / Other |
 |---------------|----------------|-------------|
 | [2D Physics Game](https://github.com/MichaelRFaria/Java-2D-Physics-Game) | [Test Creator](https://github.com/MichaelRFaria/Python-Test-Creator) | [React Movie App](https://github.com/MichaelRFaria/React-Movie-Web-App) |
-| [2D Prototype Game](https://github.com/MichaelRFaria/Java-2D-Prototype-Game) | [Dice Game](https://github.com/MichaelRFaria/Python-Dice-Game) | [SQL Garage DB](https://github.com/MichaelRFaria/SQL-Garage-Database) |
-| [3D Physics Demo](https://github.com/MichaelRFaria/Processing-3D-Physics-Demo) | [GUI Calculator](https://github.com/MichaelRFaria/Python-Calculator) | [Music Hall Docs](https://github.com/MichaelRFaria/Lancaster-Music-Hall-Team-Project) |
-| [CLI File Manager](https://github.com/MichaelRFaria/Java-CLI-File-Manager) |  | [CLI Calculator](https://github.com/MichaelRFaria/Java-CLI-Calculator) |
+| [CLI File Manager](https://github.com/MichaelRFaria/Java-CLI-File-Manager) | [GUI Calculator](https://github.com/MichaelRFaria/Python-Calculator) | [Processing 3D Physics Game](https://github.com/MichaelRFaria/Processing-3D-Physics-Demo) |
+| [CLI Calculator](https://github.com/MichaelRFaria/Java-CLI-Calculator) | [Dice Game](https://github.com/MichaelRFaria/Python-Dice-Game) | [C++ Payments Database](https://github.com/MichaelRFaria/cpp-payments-database) |
 
 ---
 
