@@ -7,7 +7,7 @@ I enjoy building **games, CLI tools, and web apps**, always learning and experim
 
 ## 🛠 Projects
 
-| Java Projects | Python Projects | Web / Other |
+| Java Projects | Python Projects |  Other Projects |
 |---------------|----------------|-------------|
 | [2D Physics Game](https://github.com/MichaelRFaria/Java-2D-Physics-Game) | [Test Creator](https://github.com/MichaelRFaria/Python-Test-Creator) | [React Movie App](https://github.com/MichaelRFaria/React-Movie-Web-App) |
 | [CLI File Manager](https://github.com/MichaelRFaria/Java-CLI-File-Manager) | [GUI Calculator](https://github.com/MichaelRFaria/Python-Calculator) | [Processing 3D Physics Game](https://github.com/MichaelRFaria/Processing-3D-Physics-Demo) |
@@ -17,11 +17,14 @@ I enjoy building **games, CLI tools, and web apps**, always learning and experim
 
 ## 💻 Skills
 
-**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-81B0FC?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-**Frameworks / Libraries:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Processing](https://img.shields.io/badge/Processing-FF2D20?logo=processing&logoColor=white)
+**Frameworks / Libraries:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+ ![Processing](https://img.shields.io/badge/Processing-FF2D20?logo=processing&logoColor=white)
 
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC?logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
+**Databases / DBMS:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-FFFFFF?logo=visual-paradigm&logoColor=red) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 
 **Concepts:** Data Structures & Algorithms | OOP | File I/O | Databases | Networking
 
