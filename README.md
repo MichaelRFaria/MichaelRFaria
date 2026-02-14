@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Michael!
 
-3rd Year BSc Computer Science student passionate about **Java**, with experience in **React, Python, SQL & C++**.
-I enjoy building **games, CLI tools, and web apps**, always learning and experimenting. 🚀
+3rd Year BSc Computer Science student passionate about **Java**, also with experience in **React, Spring Boot, Python & C++**.
+I enjoy building **web apps, CLI tools and games**, always learning and experimenting. 🚀
 
 ---
 
@@ -25,7 +25,3 @@ I enjoy building **games, CLI tools, and web apps**, always learning and experim
 **Databases / DBMS:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-FFFFFF?logo=visual-paradigm&logoColor=red) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
-
-**Concepts:** Data Structures & Algorithms | OOP | File I/O | Databases | Networking
-
-**Soft Skills:** Problem Solving | Debugging | Teamwork | Documentation
