@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Michael!
+# Hi, I'm Michael!
 
 3rd Year BSc Computer Science student experienced in **Java**, also with experience in **React, Spring Boot, Python & C++**.
-I enjoy building **web apps, CLI tools and games**, always learning and experimenting. 🚀
+I enjoy building **web apps, CLI tools and games**, always learning and experimenting.
 
 ---
 
-## 🛠 Projects
+## Projects
 
 | Java Projects | Python Projects |  Other Projects |
 |---------------|----------------|-------------|
@@ -15,7 +15,7 @@ I enjoy building **web apps, CLI tools and games**, always learning and experime
 
 ---
 
-## 💻 Skills
+## Skills
 
 **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-81B0FC?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
