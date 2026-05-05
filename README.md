@@ -1,7 +1,6 @@
 # Hi, I'm Michael!
 
-3rd Year BSc Computer Science student experienced in **Java**, also with experience in **React, Spring Boot, Python & C++**.
-I enjoy building **web apps, CLI tools and games**, always learning and experimenting.
+I enjoy building **web apps, CLI tools and games**, always learning and experimenting. Working towards becoming a full-stack developer.
 
 ---
 
