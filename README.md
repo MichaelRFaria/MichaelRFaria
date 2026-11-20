@@ -54,7 +54,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Task-Manager-App</h3>
+      <h3 align="center">Task Manager App</h3>
       <a href="https://github.com/MichaelRFaria/Task-Manager-App">
         <img src="./assets/taskmanagerapp.png" width="100%" alt="Task Manager screenshot">
       </a>
